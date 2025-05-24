@@ -1,6 +1,6 @@
 # PTBE_ROKETIN
 
-This documentation is made for testing API endpoints.
+This documentation is made for testing API endpoints in Challenge 2.
 
 ---
 
